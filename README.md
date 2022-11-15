@@ -13,6 +13,8 @@
    🥳 Really simple Electron + Vue + Vite out-of-the-box boilerplate</em>
     <br />
     <br /
+    </sup>
+    </div>
 
 [![awesome-vite](https://awesome.re/mentioned-badge.svg)](https://github.com/vitejs/awesome-vite)
 
