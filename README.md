@@ -16,8 +16,6 @@
     </sup>
     </div>
 
-[![awesome-vite](https://awesome.re/mentioned-badge.svg)](https://github.com/vitejs/awesome-vite)
-
 ## Features
 
 📦 Out of the box  
